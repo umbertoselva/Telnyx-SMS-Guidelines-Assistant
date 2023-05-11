@@ -1,0 +1,1274 @@
+[
+    {
+        "id": "6683745",
+        "title": "Serbia: SMS Guidelines",
+        "body": "Serbia: SMS Guidelines. MCC: 220. Dial Code: 381. Alphanumeric Sender IDs are supported with registration. Registration is possible to ensure Alphanumeric Senders can be maintained. Without registration, Alpha Senders will be overwritten to Generic Alpha Sender IDs. The registration of Alphanumeric Senders involves monthly fees. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6683745-serbia-sms-guidelines"
+    },
+    {
+        "id": "6683734",
+        "title": "Republic of Korea (South Korea): SMS Guidelines",
+        "body": "Republic of Korea (South Korea): SMS Guidelines. MCC: 450. Dial Code: 82. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to a random Local Long Code  to ensure delivery. All messages to this destination will have the following text added by default:. [Web \ubc1c\uc2e0] : This indicates A2P traffic[\uad6d\uc81c\ubc1c\uc2e0]: This indicates that the message has been sent from abroad. Gambling and Adult content is not permitted. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683734-republic-of-korea-south-korea-sms-guidelines"
+    },
+    {
+        "id": "6683726",
+        "title": "Kiribati: SMS Guidelines",
+        "body": "Kiribati: SMS Guidelines. MCC: 545. Dial Code: 686. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683726-kiribati-sms-guidelines"
+    },
+    {
+        "id": "6683504",
+        "title": "Zimbabwe: SMS Guidelines",
+        "body": "Zimbabwe: SMS Guidelines. MCC: 648. Dial Code: 263. Alphanumeric Sender IDs are supported. There is a distinction between Local and International traffic. For local traffic, Alphanumeric Sender IDs are only supported through registration. International traffic does not require registration. Alphanumeric Senders will be supported. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6683504-zimbabwe-sms-guidelines"
+    },
+    {
+        "id": "6683501",
+        "title": "Zambia: SMS Guidelines",
+        "body": "Zambia: SMS Guidelines. MCC: 645. Dial Code: 260. Alphanumeric Sender IDs are supported. For Network MTN (65402) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. . ",
+        "url": "https://support.telnyx.com/en/articles/6683501-zambia-sms-guidelines"
+    },
+    {
+        "id": "6683484",
+        "title": "Yemen: SMS Guidelines",
+        "body": "Yemen: SMS Guidelines. MCC: 421. Dial Code: 998. Alphanumeric Sender IDs are supported. No registration is required. Occasionally Alphanumeric Sender ID might be overwritten to Random Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683484-yemen-sms-guidelines"
+    },
+    {
+        "id": "6683477",
+        "title": "Virgin Islands (British): SMS Guidelines",
+        "body": "Virgin Islands (British): SMS Guidelines. MCC: 348. Dial Code: 1340. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683477-virgin-islands-british-sms-guidelines"
+    },
+    {
+        "id": "6683467",
+        "title": "Vietnam: SMS Guidelines",
+        "body": "Vietnam: SMS Guidelines. MCC: 452. Dial Code: 84. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Vietnam is a destination that supports SMSC-DLR only, as such positive DLRs are to be expected. Handset delivery reports are not possible. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6683467-vietnam-sms-guidelines"
+    },
+    {
+        "id": "6683459",
+        "title": "Vanuatu: SMS Guidelines",
+        "body": "Vanuatu: SMS Guidelines. MCC: 541. Dial Code: 678. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683459-vanuatu-sms-guidelines"
+    },
+    {
+        "id": "6683454",
+        "title": "Uzbekistan: SMS Guidelines",
+        "body": "Uzbekistan: SMS Guidelines. MCC: 434. Dial Code: 998. Alphanumeric Sender IDs are supported. No registration is required. Occasionally Alphanumeric Sender ID might be overwritten to Random Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683454-uzbekistan-sms-guidelines"
+    },
+    {
+        "id": "6683438",
+        "title": "United Arab Emirates: SMS Guidelines",
+        "body": "United Arab Emirates: SMS Guidelines. MCC: 424. Dial Code: 971. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. For promotional traffic, the suffix \"AD\" must be added to the Alphanumeric Sender for traffic distinction. Promotional traffic is not allowed between 09:00 pm and 07:00 local time, all traffic submitted during this time window will be queued and delivery will be attempted outside the time period. Religious,  gambling political or adult traffic is prohibited. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6683438-united-arab-emirates-sms-guidelines"
+    },
+    {
+        "id": "6683433",
+        "title": "Uganda: SMS Guidelines",
+        "body": "Uganda: SMS Guidelines. MCC: 641. Dial Code: 256. Alphanumeric Sender IDs are supported. For Network MTN (64110) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6683433-uganda-sms-guidelines"
+    },
+    {
+        "id": "6683429",
+        "title": "Tuvalu: SMS Guidelines",
+        "body": "Tuvalu: SMS Guidelines. MCC: 553. Dial Code: 688. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6683429-tuvalu-sms-guidelines"
+    },
+    {
+        "id": "6683396",
+        "title": "Turks and Caicos Islands: SMS Guidelines",
+        "body": "Turks and Caicos Islands: SMS Guidelines. MCC: 376. Dial Code: 1649. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683396-turks-and-caicos-islands-sms-guidelines"
+    },
+    {
+        "id": "6683390",
+        "title": "Turkmenistan: SMS Guidelines",
+        "body": "Turkmenistan: SMS Guidelines. MCC: 438. Dial Code: 993. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Long Code or Generic Alphanumeric Sender ID to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683390-turkmenistan-sms-guidelines"
+    },
+    {
+        "id": "6683385",
+        "title": "Tunisia: SMS Guidelines",
+        "body": "Tunisia: SMS Guidelines. MCC: 605. Dial Code: 216. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683385-tunisia-sms-guidelines"
+    },
+    {
+        "id": "6683379",
+        "title": "Trinidad & Tobago: SMS Guidelines",
+        "body": "Trinidad & Tobago: SMS Guidelines. MCC: 374. Dial Code: 1868. Alphanumeric Sender IDs are supported. No registration is required. Occasionally Alphanumeric Sender ID might be overwritten to Random Long Code to ensure delivery towards Network Bmobile (37412). Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683379-trinidad-tobago-sms-guidelines"
+    },
+    {
+        "id": "6683365",
+        "title": "Tonga: SMS Guidelines",
+        "body": "Tonga: SMS Guidelines. MCC: 539. Dial Code: 676. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683365-tonga-sms-guidelines"
+    },
+    {
+        "id": "6683355",
+        "title": "Togo: SMS Guidelines",
+        "body": "Togo: SMS Guidelines. MCC: 615. Dial Code: 228. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683355-togo-sms-guidelines"
+    },
+    {
+        "id": "6683340",
+        "title": "Timor-Leste: SMS Guidelines",
+        "body": "Timor-Leste: SMS Guidelines. MCC: 514. Dial Code: 670. Alphanumeric Sender IDs are supported. No registration is required. Occasionally Alphanumeric Sender ID might be overwritten to Random Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683340-timor-leste-sms-guidelines"
+    },
+    {
+        "id": "6683302",
+        "title": "Thailand: SMS Guidelines",
+        "body": "Thailand: SMS Guidelines. MCC: 520. Dial Code: 66. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6683302-thailand-sms-guidelines"
+    },
+    {
+        "id": "6683295",
+        "title": "Tanzania: SMS Guidelines",
+        "body": "Tanzania: SMS Guidelines. MCC: 640. Dial Code: 255. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6683295-tanzania-sms-guidelines"
+    },
+    {
+        "id": "6683287",
+        "title": "Tajikistan: SMS Guidelines",
+        "body": "Tajikistan: SMS Guidelines. MCC: 436. Dial Code: 992. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683287-tajikistan-sms-guidelines"
+    },
+    {
+        "id": "6683277",
+        "title": "Taiwan: SMS Guidelines",
+        "body": "Taiwan: SMS Guidelines. MCC: 466. Dial Code: 886. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to a random Local Long Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6683277-taiwan-sms-guidelines"
+    },
+    {
+        "id": "6680256",
+        "title": "Syria: SMS Guidelines",
+        "body": "Syria: SMS Guidelines. MCC: 417. Dial Code: 963. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to a random Long Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6680256-syria-sms-guidelines"
+    },
+    {
+        "id": "6680225",
+        "title": "Sudan: SMS Guidelines",
+        "body": "Sudan: SMS Guidelines. MCC: 634. Dial Code: 249. Alphanumeric Sender IDs are supported. For Network MTN (63402) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6680225-sudan-sms-guidelines"
+    },
+    {
+        "id": "6680171",
+        "title": "Sri Lanka: SMS Guidelines",
+        "body": "Sri Lanka: SMS Guidelines. MCC: 413. Dial Code: 94. Alphanumeric Sender IDs are supported. For Networks Dialog (41302) and Mobitel (41301) Alphanumeric Sender IDs are only supported with registration. Network Mobitel (41301) only allows OTP, transactional traffic. Messages carrying non-OTP traffic will be rejected by the Network. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6680171-sri-lanka-sms-guidelines"
+    },
+    {
+        "id": "6680141",
+        "title": "South Sudan: SMS Guidelines",
+        "body": "South Sudan: SMS Guidelines. MCC: 659. Dial Code: 211. Alphanumeric Sender IDs are supported. For Network MTN (65902) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6680141-south-sudan-sms-guidelines"
+    },
+    {
+        "id": "6680135",
+        "title": "Somalia: SMS Guidelines",
+        "body": "Somalia: SMS Guidelines. MCC: 637. Dial Code: 252. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6680135-somalia-sms-guidelines"
+    },
+    {
+        "id": "6680123",
+        "title": "Solomon Islands: SMS Guidelines",
+        "body": "Solomon Islands: SMS Guidelines. MCC: 540. Dial Code: 677. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6680123-solomon-islands-sms-guidelines"
+    },
+    {
+        "id": "6680109",
+        "title": "Slovakia: SMS Guidelines",
+        "body": "Slovakia: SMS Guidelines. MCC: 231. Dial Code: 421. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6680109-slovakia-sms-guidelines"
+    },
+    {
+        "id": "6680103",
+        "title": "Singapore: SMS Guidelines",
+        "body": "Singapore: SMS Guidelines. MCC: 525. Dial Code: 65. Mandatory registration of Alphanumeric Sender IDs has been implemented by the Infocomm Media Development Authority (IMDA) since January 31st, 2023. From this date and until July 31st, 2023, all submissions with un-registered Alphanumeric Sender IDs will be flagged and overwritten with \"Likely-SCAM\". After July 31st, 2023, messages with un-registered Alphanumeric Sender IDs will be blocked. Kindly note that the registration of Alphanumeric Senders involves fees. . Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alphanumeric Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6680103-singapore-sms-guidelines"
+    },
+    {
+        "id": "6680089",
+        "title": "Sierra Leone: SMS Guidelines",
+        "body": "Sierra Leone: SMS Guidelines. MCC: 619. Dial Code: 232. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6680089-sierra-leone-sms-guidelines"
+    },
+    {
+        "id": "6680053",
+        "title": "Seychelles: SMS Guidelines",
+        "body": "Seychelles: SMS Guidelines. MCC: 633. Dial Code: 248. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6680053-seychelles-sms-guidelines"
+    },
+    {
+        "id": "6680041",
+        "title": "Senegal: SMS Guidelines",
+        "body": "Senegal: SMS Guidelines. MCC: 608. Dial Code: 221. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6680041-senegal-sms-guidelines"
+    },
+    {
+        "id": "6680009",
+        "title": "Saudi Arabia: SMS Guidelines",
+        "body": "Saudi Arabia: SMS Guidelines. MCC: 420. Dial Code: 966. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Registration is only possible for International Brands. For promotional traffic, the suffix \"AD\" must be added to the Alphanumeric Sender for traffic distinction. If message content includes URLs, these must also be whitelisted as part of the Alphanumeric Sender ID registration process. The use of shortened URL links (bit links) is not allowed. Gambling, political or adult traffic is prohibited. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. . ",
+        "url": "https://support.telnyx.com/en/articles/6680009-saudi-arabia-sms-guidelines"
+    },
+    {
+        "id": "6680003",
+        "title": "Sao Tome and Principe: SMS Guidelines",
+        "body": "Sao Tome and Principe: SMS Guidelines. MCC: 626. Dial Code: 239. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6680003-sao-tome-and-principe-sms-guidelines"
+    },
+    {
+        "id": "6679992",
+        "title": "San Marino: SMS Guidelines",
+        "body": "San Marino: SMS Guidelines. MCC: 292. Dial Code: 378. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6679992-san-marino-sms-guidelines"
+    },
+    {
+        "id": "6679451",
+        "title": "Samoa: SMS Guidelines",
+        "body": "Samoa: SMS Guidelines. MCC: 549. Dial Code: 685. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6679451-samoa-sms-guidelines"
+    },
+    {
+        "id": "6679448",
+        "title": "Saint Vincent and the Grenadines: SMS Guidelines",
+        "body": "Saint Vincent and the Grenadines: SMS Guidelines. MCC: 360. Dial Code: 1784. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6679448-saint-vincent-and-the-grenadines-sms-guidelines"
+    },
+    {
+        "id": "6679441",
+        "title": "Saint Pierre and Miquelon: SMS Guidelines",
+        "body": "Saint Pierre and Miquelon: SMS Guidelines. MCC: 308. Dial Code: 508. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6679441-saint-pierre-and-miquelon-sms-guidelines"
+    },
+    {
+        "id": "6679439",
+        "title": "Saint Lucia: SMS Guidelines",
+        "body": "Saint Lucia: SMS Guidelines. MCC: 358. Dial Code: 1758. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6679439-saint-lucia-sms-guidelines"
+    },
+    {
+        "id": "6679419",
+        "title": "Saint Kitts & Nevis: SMS Guidelines",
+        "body": "Saint Kitts & Nevis: SMS Guidelines. MCC: 356. Dial Code: 1869. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6679419-saint-kitts-nevis-sms-guidelines"
+    },
+    {
+        "id": "6679407",
+        "title": "Rwanda: SMS Guidelines",
+        "body": "Rwanda: SMS Guidelines. MCC: 635. Dial Code: 250. Alphanumeric Sender IDs are supported. For Network MTN (63510) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6679407-rwanda-sms-guidelines"
+    },
+    {
+        "id": "6679378",
+        "title": "Reunion: SMS Guidelines",
+        "body": "Reunion: SMS Guidelines. MCC: 647. Dial Code: 262. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6679378-reunion-sms-guidelines"
+    },
+    {
+        "id": "6679369",
+        "title": "Qatar: SMS Guidelines",
+        "body": "Qatar: SMS Guidelines. MCC: 427. Dial Code: 974. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Religious, political or adult traffic is prohibited. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6679369-qatar-sms-guidelines"
+    },
+    {
+        "id": "6679279",
+        "title": "Papua New Guinea: SMS Guidelines",
+        "body": "Papua New Guinea: SMS Guidelines. MCC: 537. Dial Code: 675. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6679279-papua-new-guinea-sms-guidelines"
+    },
+    {
+        "id": "6679259",
+        "title": "Palestinian Territory: SMS Guidelines",
+        "body": "Palestinian Territory: SMS Guidelines. MCC: 425. Dial Code: 970. Alphanumeric Sender IDs are supported. There is a distinction between Local and International traffic. For local traffic, Alphanumeric Sender IDs are only supported through registration. International traffic does not require registration. Alphanumeric Senders will be supported. Personal Loans, gambling, adult and cryptocurrency related traffic is prohibited. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6679259-palestinian-territory-sms-guidelines"
+    },
+    {
+        "id": "6679161",
+        "title": "Palau: SMS Guidelines",
+        "body": "Palau: SMS Guidelines. MCC: 552. Dial Code: 680. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6679161-palau-sms-guidelines"
+    },
+    {
+        "id": "6679149",
+        "title": "Pakistan: SMS Guidelines",
+        "body": "Pakistan: SMS Guidelines. MCC: 410. Dial Code: 92. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Gambling related traffic is not permitted. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6679149-pakistan-sms-guidelines"
+    },
+    {
+        "id": "6679138",
+        "title": "Oman: SMS Guidelines",
+        "body": "Oman: SMS Guidelines. MCC: 422. Dial Code: 968. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Non-registered Alpha Sender IDs will either be rejected or overwritten. However this is on best-effort basis. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6679138-oman-sms-guidelines"
+    },
+    {
+        "id": "6679129",
+        "title": "Norfolk Island: SMS Guidelines",
+        "body": "Norfolk Island: SMS Guidelines. MCC: 505. Dial Code: 672. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6679129-norfolk-island-sms-guidelines"
+    },
+    {
+        "id": "6679084",
+        "title": "Nigeria: SMS Guidelines",
+        "body": "Nigeria: SMS Guidelines. MCC: 621. Dial Code: 234. Alphanumeric Sender IDs are supported. For Network MTN (62130) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6679084-nigeria-sms-guidelines"
+    },
+    {
+        "id": "6679062",
+        "title": "Niger: SMS Guidelines",
+        "body": "Niger: SMS Guidelines. MCC: 614. Dial Code: 227. Alphanumeric Sender IDs are supported. There is a distinction between Local and International traffic. For local traffic, Alphanumeric Sender IDs are only supported through registration. International traffic does not require registration. Alphanumeric Senders will be supported. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6679062-niger-sms-guidelines"
+    },
+    {
+        "id": "6679036",
+        "title": "New Zealand: SMS Guidelines",
+        "body": "New Zealand: SMS Guidelines. MCC: 530. Dial Code: 64. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to a random Short Code to ensure delivery. Due to local restrictions, dedicated short codes are the best way to improve delivery towards this destination. Without a dedicated short code, message delivery is to be considered as best-effort delivery only. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6679036-new-zealand-sms-guidelines"
+    },
+    {
+        "id": "6679031",
+        "title": "New Caledonia: SMS Guidelines",
+        "body": "New Caledonia: SMS Guidelines. MCC: 546. Dial Code: 687. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6679031-new-caledonia-sms-guidelines"
+    },
+    {
+        "id": "6678949",
+        "title": "Netherlands Antilles: SMS Guidelines",
+        "body": "Netherlands Antilles: SMS Guidelines. MCC: 362. Dial Code: 599. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. . ",
+        "url": "https://support.telnyx.com/en/articles/6678949-netherlands-antilles-sms-guidelines"
+    },
+    {
+        "id": "6678903",
+        "title": "Nepal: SMS Guidelines",
+        "body": "Nepal: SMS Guidelines. Nepal: SMS Guidelines. MCC: 429. Dial Code: 977. Alphanumeric Sender IDs are supported. For Network Ncell (42902) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6678903-nepal-sms-guidelines"
+    },
+    {
+        "id": "6678890",
+        "title": "Namibia: SMS Guidelines",
+        "body": "Namibia: SMS Guidelines. MCC: 649. Dial Code: 264. Alphanumeric Sender IDs are supported and will be maintained, no registration is required.. Occasionally Alphanumeric Sender IDs might be replaced by Generic Alphanumeric Sender ID to ensure delivery. . There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6678890-namibia-sms-guidelines"
+    },
+    {
+        "id": "6678010",
+        "title": "Myanmar: SMS Guidelines",
+        "body": "Myanmar: SMS Guidelines. MCC: 414. Dial Code: 95. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6678010-myanmar-sms-guidelines"
+    },
+    {
+        "id": "6677999",
+        "title": "Mozambique: SMS Guidelines",
+        "body": "Mozambique: SMS Guidelines. MCC: 643. Dial Code: 258. Alphanumeric Sender IDs are supported. Occasionally Alpha Sender ID might be replaced by Generic Alpha Sender ID towards Network Movitel (64303) to ensure delivery. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6677999-mozambique-sms-guidelines"
+    },
+    {
+        "id": "6677982",
+        "title": "Morocco: SMS Guidelines",
+        "body": "Morocco: SMS Guidelines. MCC: 604. Dial Code: 212. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6677982-morocco-sms-guidelines"
+    },
+    {
+        "id": "6677968",
+        "title": "Montserrat: SMS Guidelines",
+        "body": "Montserrat: SMS Guidelines. MCC: 354. Dial Code: 1664. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6677968-montserrat-sms-guidelines"
+    },
+    {
+        "id": "6677964",
+        "title": "Montenegro: SMS Guidelines",
+        "body": "Montenegro: SMS Guidelines. MCC: 297. Dial Code: 382. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6677964-montenegro-sms-guidelines"
+    },
+    {
+        "id": "6677958",
+        "title": "Mongolia: SMS Guidelines",
+        "body": "Mongolia: SMS Guidelines. MCC: 428. Dial Code: 976. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6677958-mongolia-sms-guidelines"
+    },
+    {
+        "id": "6677954",
+        "title": "Monaco: SMS Guidelines",
+        "body": "Monaco: SMS Guidelines. MCC: 212. Dial Code: 377. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6677954-monaco-sms-guidelines"
+    },
+    {
+        "id": "6677919",
+        "title": "Mauritius: SMS Guidelines",
+        "body": "Mauritius: SMS Guidelines. MCC: 617. Dial Code: 230. Alphanumeric Sender IDs are supported and will be maintained, except towards network Orange Mauritius. No registration is required. . . Religious, political or adult traffic is prohibited. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6677919-mauritius-sms-guidelines"
+    },
+    {
+        "id": "6675690",
+        "title": "Mauritania: SMS Guidelines",
+        "body": "Mauritania: SMS Guidelines. MCC: 609. Dial Code: 222. Alphanumeric Sender IDs are supported and will be maintained, no registration is required.. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. . There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6675690-mauritania-sms-guidelines"
+    },
+    {
+        "id": "6675683",
+        "title": "Martinique: SMS Guidelines",
+        "body": "Martinique: SMS Guidelines. MCC: 340. Dial Code: 596. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6675683-martinique-sms-guidelines"
+    },
+    {
+        "id": "6675252",
+        "title": "Malta: SMS Guidelines",
+        "body": "Malta: SMS Guidelines. MCC: 278. Dial Code: 356. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6675252-malta-sms-guidelines"
+    },
+    {
+        "id": "6675247",
+        "title": "Mali: SMS Guidelines",
+        "body": "Mali: SMS Guidelines. MCC: 610. Dial Code: 223. Alphanumeric Sender IDs are supported. There is a distinction between Local and International traffic. For local traffic, Alphanumeric Sender IDs are only supported through registration. International traffic does not require registration. Alphanumeric Senders will be supported. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6675247-mali-sms-guidelines"
+    },
+    {
+        "id": "6675222",
+        "title": "Maldives: SMS Guidelines",
+        "body": "Maldives: SMS Guidelines. MCC: 472. Dial Code: 960. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6675222-maldives-sms-guidelines"
+    },
+    {
+        "id": "6675110",
+        "title": "Malaysia: SMS Guidelines",
+        "body": "Malaysia: SMS Guidelines. MCC: 502. Dial Code: 60. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Message content should start with the Header \u201cRM0.00 ,\u201d \u201cRM0.0 ,\u201d or \u201cRM0 \u201c. If this header is not included, it will be added by local operators, this can disrupt total message content length. Additionally, content should include a brand/identifier or company name, without this identifier, operators can filter traffic or impose fines for non-compliant traffic. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6675110-malaysia-sms-guidelines"
+    },
+    {
+        "id": "6675104",
+        "title": "Malawi: SMS Guidelines",
+        "body": "Malawi: SMS Guidelines. MCC: 650. Dial Code: 265. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6675104-malawi-sms-guidelines"
+    },
+    {
+        "id": "6675096",
+        "title": "Madagascar: SMS Guidelines",
+        "body": "Madagascar: SMS Guidelines. MCC: 646. Dial Code: 261. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6675096-madagascar-sms-guidelines"
+    },
+    {
+        "id": "6675034",
+        "title": "Macedonia (North Macedonia): SMS Guidelines",
+        "body": "Macedonia (North Macedonia): SMS Guidelines. MCC: 294. Dial Code: 389. Alphanumeric Sender IDs are supported and will be maintained, no registration is required.. Occasionally Alphanumeric Sender IDs might be replaced by Generic Alphanumeric Sender ID to ensure delivery. . There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6675034-macedonia-north-macedonia-sms-guidelines"
+    },
+    {
+        "id": "6675024",
+        "title": "Macao: SMS Guidelines",
+        "body": "Macao: SMS Guidelines. MCC: 455. Dial Code: 853. Alphanumeric Sender IDs are  supported. Registration is not necessary. Alphanumeric Sender IDs can be overwritten to a random Hong Kong Long Code to ensure delivery towards Network China Telecom (45507). There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6675024-macao-sms-guidelines"
+    },
+    {
+        "id": "6674999",
+        "title": "Liechtenstein: SMS Guidelines",
+        "body": "Liechtenstein: SMS Guidelines. MCC: 295. Dial Code: 423. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674999-liechtenstein-sms-guidelines"
+    },
+    {
+        "id": "6674989",
+        "title": "Libya: SMS Guidelines",
+        "body": "Libya: SMS Guidelines. MCC: 606. Dial Code: 218. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674989-libya-sms-guidelines"
+    },
+    {
+        "id": "6674974",
+        "title": "Liberia: SMS Guidelines",
+        "body": "Liberia: SMS Guidelines. MCC: 618. Dial Code: 231. Alphanumeric Sender IDs are supported. For Network Lonestar MTN (61801) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6674974-liberia-sms-guidelines"
+    },
+    {
+        "id": "6674813",
+        "title": "Lesotho: SMS Guidelines",
+        "body": "Lesotho: SMS Guidelines. MCC: 651. Dial Code: 266. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6674813-lesotho-sms-guidelines"
+    },
+    {
+        "id": "6674807",
+        "title": "Lebanon: SMS Guidelines",
+        "body": "Lebanon: SMS Guidelines. MCC: 415. Dial Code: 961. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674807-lebanon-sms-guidelines"
+    },
+    {
+        "id": "6674798",
+        "title": "Laos PDR: SMS Guidelines",
+        "body": "Laos PDR: SMS Guidelines. MCC: 457. Dial Code: 856. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674798-laos-pdr-sms-guidelines"
+    },
+    {
+        "id": "6674794",
+        "title": "Kyrgyzstan: SMS Guidelines",
+        "body": "Kyrgyzstan: SMS Guidelines. MCC: 437. Dial Code: 996. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674794-kyrgyzstan-sms-guidelines"
+    },
+    {
+        "id": "6674713",
+        "title": "Kuwait: SMS Guidelines",
+        "body": "Kuwait: SMS Guidelines. MCC: 419. Dial Code: 965. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Adult, religious and political content is not permitted. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6674713-kuwait-sms-guidelines"
+    },
+    {
+        "id": "6674651",
+        "title": "Kosovo: SMS Guidelines",
+        "body": "Kosovo: SMS Guidelines. MCC: 221. Dial Code: 383. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674651-kosovo-sms-guidelines"
+    },
+    {
+        "id": "6674630",
+        "title": "Kenya: SMS Guidelines",
+        "body": "Kenya: SMS Guidelines. MCC: 639. Dial Code: 254. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Political, Religious, gambling, adult and P2P content is prohibited. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6674630-kenya-sms-guidelines"
+    },
+    {
+        "id": "6674595",
+        "title": "Kazakhstan: SMS Guidelines",
+        "body": "Kazakhstan: SMS Guidelines. MCC: 401. Dial Code: 7. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Non-registered Alphanumeric Sender IDs will either be rejected or overwritten. However, this is on best-effort basis. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6674595-kazakhstan-sms-guidelines"
+    },
+    {
+        "id": "6674487",
+        "title": "Jordan: SMS Guidelines",
+        "body": "Jordan: SMS Guidelines. MCC: 416. Dial Code: 962. Alphanumeric Sender IDs are supported. There is a distinction between Local and International traffic. For local traffic, Alphanumeric Sender IDs are only supported through registration. International traffic does not require registration. Alphanumeric Senders will be supported. Promotional traffic can only be sent between 7 A.M. and 9 P.M. local time. Alphanumeric Senders used for promotional traffic must include the prefix \"ADV\". Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6674487-jordan-sms-guidelines"
+    },
+    {
+        "id": "6674476",
+        "title": "Japan: SMS Guidelines",
+        "body": "Japan: SMS Guidelines. MCC: 440. Dial Code: 81. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. SMS containing URLs as part of the message body could be filtered. . Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674476-japan-sms-guidelines"
+    },
+    {
+        "id": "6674464",
+        "title": "Jamaica: SMS Guidelines",
+        "body": "Jamaica: SMS Guidelines. MCC: 338. Dial Code: 1876. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674464-jamaica-sms-guidelines"
+    },
+    {
+        "id": "6674453",
+        "title": "Israel: SMS Guidelines",
+        "body": "Israel: SMS Guidelines. MCC: 425. Dial Code: 972. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. Religious, gambling, political or adult traffic is prohibited. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674453-israel-sms-guidelines"
+    },
+    {
+        "id": "6674403",
+        "title": "Iran: SMS Guidelines",
+        "body": "Iran: SMS Guidelines. MCC: 432. Dial Code: 98. Alphanumeric Sender IDs are partially supported. For network Righttel (43220), Alphanumeric Sender IDs are supported and will be maintained. Alphanumeric Sender ID registration is required for Network MCI (43211). For the remaining networks  Alphanumeric Senders will be overwritten to a random long code to ensure delivery. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6674403-iran-sms-guidelines"
+    },
+    {
+        "id": "6674396",
+        "title": "Indonesia: SMS Guidelines",
+        "body": "Indonesia: SMS Guidelines. MCC: 510. Dial Code: 62. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Unregistered Alphanumeric Sender IDs can sometimes be overwritten, however this should only be seen as best-effort delivery. There is a distinction between Local and International traffic and processes vary depending on this difference. The use of generic Alphanumeric Sender IDs is not recommended. Alphanumeric Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6674396-indonesia-sms-guidelines"
+    },
+    {
+        "id": "6674383",
+        "title": "India: SMS Guidelines",
+        "body": "India: SMS Guidelines. MCC: 404 - 405. Dial Code: 91. Alphanumeric Sender IDs are partially supported through registration. Only Local Alpha Sender IDs (Local Entities) can be registered (DLT registration process) while no registration is possible for International Alpha Sender IDs. International Alphanumeric Sender IDs will be overwritten to random Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6674383-india-sms-guidelines"
+    },
+    {
+        "id": "6674367",
+        "title": "Hong Kong: SMS Guidelines",
+        "body": "Hong Kong: SMS Guidelines. MCC: 454. Dial Code: 852. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. It is common for handsets in Hong Kong to follow the \u201c2 numbers 1 SIM Card\u201d model, with one Chinese number (+86) and one HK number (+85), this can cause delivery issues. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6674367-hong-kong-sms-guidelines"
+    },
+    {
+        "id": "6674331",
+        "title": "Haiti: SMS Guidelines",
+        "body": "Haiti: SMS Guidelines. MCC: 372. Dial Code: 509. Alphanumeric Sender IDs are partially supported. Registration is not possible. Alphanumeric Sender IDs are not supported towards Operator Natcom (37203), due to local restrictions, submissions with this type of Sender will be blocked. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6674331-haiti-sms-guidelines"
+    },
+    {
+        "id": "6671856",
+        "title": "Guyana: SMS Guidelines",
+        "body": "Guyana: SMS Guidelines. MCC: 738. Dial Code: 592. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6671856-guyana-sms-guidelines"
+    },
+    {
+        "id": "6671725",
+        "title": "Guinea-Bissau: SMS Guidelines",
+        "body": "Guinea-Bissau: SMS Guidelines. MCC: 632. Dial Code: 245. Alphanumeric Sender IDs are supported. For Network MTN (63202) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. . ",
+        "url": "https://support.telnyx.com/en/articles/6671725-guinea-bissau-sms-guidelines"
+    },
+    {
+        "id": "6671488",
+        "title": "Guinea: SMS Guidelines",
+        "body": "Guinea: SMS Guidelines. MCC: 611. Dial Code: 224. Alphanumeric Sender IDs are supported. For Network MTN (61104) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6671488-guinea-sms-guidelines"
+    },
+    {
+        "id": "6671472",
+        "title": "Guam: SMS Guidelines",
+        "body": "Guam: SMS Guidelines. MCC: 310. Dial Code: 1671. The use of Alphanumeric Sender IDs is not allowed/supported for this destination. For this destination, only traffic with Long Code is permitted. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6671472-guam-sms-guidelines"
+    },
+    {
+        "id": "6671462",
+        "title": "Guadeloupe: SMS Guidelines",
+        "body": "Guadeloupe: SMS Guidelines. MCC: 340. Dial Code: 590. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6671462-guadeloupe-sms-guidelines"
+    },
+    {
+        "id": "6670896",
+        "title": "Grenada: SMS Guidelines",
+        "body": "Grenada: SMS Guidelines. MCC: 352. Dial Code: 1473. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670896-grenada-sms-guidelines"
+    },
+    {
+        "id": "6670885",
+        "title": "Greenland: SMS Guidelines",
+        "body": "Greenland: SMS Guidelines. MCC: 290. Dial Code: 299. Alphanumeric Sender IDs are supported and will be maintained, no registration is required.. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content.. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670885-greenland-sms-guidelines"
+    },
+    {
+        "id": "6670878",
+        "title": "Gibraltar: SMS Guidelines",
+        "body": "Gibraltar: SMS Guidelines. MCC: 266. Dial Code: 350. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670878-gibraltar-sms-guidelines"
+    },
+    {
+        "id": "6670870",
+        "title": "Ghana: SMS Guidelines",
+        "body": "Ghana: SMS Guidelines. MCC: 620. Dial Code: 233. Alphanumeric Sender IDs are supported. For Network MTN (62001) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. . ",
+        "url": "https://support.telnyx.com/en/articles/6670870-ghana-sms-guidelines"
+    },
+    {
+        "id": "6670869",
+        "title": "Germany: SMS Guidelines",
+        "body": "Germany: SMS Guidelines. MCC: 262. Dial Code: 49. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670869-germany-sms-guidelines"
+    },
+    {
+        "id": "6670856",
+        "title": "Georgia: SMS Guidelines",
+        "body": "Georgia: SMS Guidelines. MCC: 282. Dial Code: 995. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670856-georgia-sms-guidelines"
+    },
+    {
+        "id": "6670843",
+        "title": "Gambia: SMS Guidelines",
+        "body": "Gambia: SMS Guidelines. MCC: 628. Dial Code: 241. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Religious, political or adult traffic is prohibited. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670843-gambia-sms-guidelines"
+    },
+    {
+        "id": "6670834",
+        "title": "Gabon: SMS Guidelines",
+        "body": "Gabon: SMS Guidelines. MCC: 628. Dial Code: 241. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. Religious, political or adult traffic is prohibited. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670834-gabon-sms-guidelines"
+    },
+    {
+        "id": "6670819",
+        "title": "French Polynesia: SMS Guidelines",
+        "body": "French Polynesia: SMS Guidelines. MCC: 547. Dial Code: 689. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670819-french-polynesia-sms-guidelines"
+    },
+    {
+        "id": "6670802",
+        "title": "French Guyana: SMS Guidelines",
+        "body": "French Guyana: SMS Guidelines. MCC: 742. Dial Code: 594. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670802-french-guyana-sms-guidelines"
+    },
+    {
+        "id": "6670784",
+        "title": "Fiji: SMS Guidelines",
+        "body": "Fiji: SMS Guidelines. MCC: 542. Dial Code: 679. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670784-fiji-sms-guidelines"
+    },
+    {
+        "id": "6670775",
+        "title": "Faroe Islands: SMS Guidelines",
+        "body": "Faroe Islands: SMS Guidelines. MCC: 288. Dial Code: 298. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670775-faroe-islands-sms-guidelines"
+    },
+    {
+        "id": "6670750",
+        "title": "Falkland Islands: SMS Guidelines",
+        "body": "Falkland Islands: SMS Guidelines. MCC: 750. Dial Code: 500. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670750-falkland-islands-sms-guidelines"
+    },
+    {
+        "id": "6670465",
+        "title": "Ethiopia: SMS Guidelines",
+        "body": "Ethiopia: SMS Guidelines. MCC: 636. Dial Code: 251. Alphanumeric Sender IDs are supported. For Network MTN (63601) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. Sending traffic related to local Banking or Promotional traffic is not allowed. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6670465-ethiopia-sms-guidelines"
+    },
+    {
+        "id": "6670452",
+        "title": "Eritrea: SMS Guidelines",
+        "body": "Eritrea: SMS Guidelines. MCC: 657. Dial Code: 291. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Religious, political or adult traffic is prohibited. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670452-eritrea-sms-guidelines"
+    },
+    {
+        "id": "6670439",
+        "title": "Equatorial Guinea: SMS Guidelines",
+        "body": "Equatorial Guinea: SMS Guidelines. MCC: 627. Dial Code: 240. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6670439-equatorial-guinea-sms-guidelines"
+    },
+    {
+        "id": "6670411",
+        "title": "Egypt: SMS Guidelines",
+        "body": "Egypt: SMS Guidelines. MCC: 602. Dial Code: 20. Alphanumeric Sender IDs are supported. For network Etisalat (60203), Alphanumeric Senders are only supported through registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6670411-egypt-sms-guidelines"
+    },
+    {
+        "id": "6665730",
+        "title": "Dominican Republic: SMS Guidelines",
+        "body": "Dominican Republic: SMS Guidelines. MCC: 370. Dial Code: 1809. Alphanumeric Sender IDs are supported. No registration is required. Occasionally Alphanumeric Sender ID might be overwritten to Random Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6665730-dominican-republic-sms-guidelines"
+    },
+    {
+        "id": "6665707",
+        "title": "Dominica: SMS Guidelines",
+        "body": "Dominica: SMS Guidelines. MCC: 366. Dial Code: 1767. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6665707-dominica-sms-guidelines"
+    },
+    {
+        "id": "6665699",
+        "title": "Djibouti: SMS Guidelines",
+        "body": "Djibouti: SMS Guidelines. MCC: 253. Dial Code: 638. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6665699-djibouti-sms-guidelines"
+    },
+    {
+        "id": "6665171",
+        "title": "Cyprus: SMS Guidelines",
+        "body": "Cyprus: SMS Guidelines. MCC: 357. Dial Code: 280. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6665171-cyprus-sms-guidelines"
+    },
+    {
+        "id": "6665126",
+        "title": "Cuba: SMS Guidelines",
+        "body": "Cuba: SMS Guidelines. MCC: 368. Dial Code: 53. Alphanumeric Sender IDs are supported with registration. Alpha numeric Sender ID registration is required. Senders composed of a combination of letters and numbers are not supported. Provision times for Alphanumeric Registration up to 6 months. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6665126-cuba-sms-guidelines"
+    },
+    {
+        "id": "6665111",
+        "title": "Cote d'Ivoire: SMS Guidelines",
+        "body": "Cote d'Ivoire: SMS Guidelines. MCC: 612. Dial Code: 225. Alphanumeric Sender IDs are supported. For Network MTN (61205) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6665111-cote-d-ivoire-sms-guidelines"
+    },
+    {
+        "id": "6661387",
+        "title": "Cook Islands: SMS Guidelines",
+        "body": "Cook Islands: SMS Guidelines. MCC: 682. Dial Code: 548. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6661387-cook-islands-sms-guidelines"
+    },
+    {
+        "id": "6661342",
+        "title": "Democratic Republic of the Congo: SMS Guidelines",
+        "body": "Democratic Republic of the Congo: SMS Guidelines. . MCC: 243. Dial Code: 630. Alphanumeric Sender IDs are supported. For Network Vodacom (63001) Alphanumeric Sender IDs are only supported with registration. Outside of this network, Alphanumeric Sender IDs can be replaced by Generic Alpha Sender ID or random Short Code. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6661342-democratic-republic-of-the-congo-sms-guidelines"
+    },
+    {
+        "id": "6661326",
+        "title": "Congo: SMS Guidelines",
+        "body": "Congo: SMS Guidelines. MCC: 629. Dial Code: 242. Alphanumeric Sender IDs are supported. For Network MTN (62910) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6661326-congo-sms-guidelines"
+    },
+    {
+        "id": "6601152",
+        "title": "Comoros: SMS Guidelines",
+        "body": "Comoros: SMS Guidelines. MCC: 654. Dial Code: 269. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6601152-comoros-sms-guidelines"
+    },
+    {
+        "id": "6601144",
+        "title": "China: SMS Guidelines",
+        "body": "China: SMS Guidelines. MCC: 460. Dial Code: 86. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. All message content has to be whitelisted by local operators. It is highly advise to pre-register message content templates. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on content whitelisting kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6601144-china-sms-guidelines"
+    },
+    {
+        "id": "6601133",
+        "title": "Chad: SMS Guidelines",
+        "body": "Chad: SMS Guidelines. MCC: 622. Dial Code: 235. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6601133-chad-sms-guidelines"
+    },
+    {
+        "id": "6601081",
+        "title": "Central African Republic: SMS Guidelines",
+        "body": "Central African Republic: SMS Guidelines. MCC: 623. Dial Code: 236. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6601081-central-african-republic-sms-guidelines"
+    },
+    {
+        "id": "6601076",
+        "title": "Cayman Islands: SMS Guidelines",
+        "body": "Cayman Islands: SMS Guidelines. MCC: 346. Dial Code: 1345. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6601076-cayman-islands-sms-guidelines"
+    },
+    {
+        "id": "6601074",
+        "title": "Cape Verde: SMS Guidelines",
+        "body": "Cape Verde: SMS Guidelines. MCC: 625. Dial Code: 238. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6601074-cape-verde-sms-guidelines"
+    },
+    {
+        "id": "6601061",
+        "title": "Cameroon: SMS Guidelines",
+        "body": "Cameroon: SMS Guidelines. MCC: 624. Dial Code: 237. Alphanumeric Sender IDs are supported. For Network MTN (62401) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6601061-cameroon-sms-guidelines"
+    },
+    {
+        "id": "6601049",
+        "title": "Cambodia: SMS Guidelines",
+        "body": "Cambodia: SMS Guidelines. MCC: 456. Dial Code: 855. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6601049-cambodia-sms-guidelines"
+    },
+    {
+        "id": "6601042",
+        "title": "Burundi: SMS Guidelines",
+        "body": "Burundi: SMS Guidelines. MCC: 642. Dial Code: 257. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6601042-burundi-sms-guidelines"
+    },
+    {
+        "id": "6601004",
+        "title": "Burkina Faso: SMS Guidelines",
+        "body": "Burkina Faso: SMS Guidelines. MCC: 613. Dial Code: 226. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6601004-burkina-faso-sms-guidelines"
+    },
+    {
+        "id": "6600934",
+        "title": "Brunei Darussalam: SMS Guidelines",
+        "body": "Brunei Darussalam: SMS Guidelines. MCC: 528. Dial Code: 673. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6600934-brunei-darussalam-sms-guidelines"
+    },
+    {
+        "id": "6600928",
+        "title": "Botswana: SMS Guidelines",
+        "body": "Botswana: SMS Guidelines. MCC: 652. Dial Code: 267. Alphanumeric Sender IDs are supported. Registration is not possible. The use of generic Alpha Sender IDs is not recommended as these can be rejected or blocked by local Operators. Alphanumeric Sender IDs should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6600928-botswana-sms-guidelines"
+    },
+    {
+        "id": "6596434",
+        "title": "Bosnia and Herzegovina: SMS Guidelines",
+        "body": "Bosnia and Herzegovina: SMS Guidelines. MCC: 218. Dial Code: 387. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6596434-bosnia-and-herzegovina-sms-guidelines"
+    },
+    {
+        "id": "6596425",
+        "title": "Bhutan: SMS Guidelines",
+        "body": "Bhutan: SMS Guidelines. MCC: 402. Dial Code: 975. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6596425-bhutan-sms-guidelines"
+    },
+    {
+        "id": "6596251",
+        "title": "Bermuda: SMS Guidelines",
+        "body": "Bermuda: SMS Guidelines. MCC: 350. Dial Code: 1441. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6596251-bermuda-sms-guidelines"
+    },
+    {
+        "id": "6596235",
+        "title": "Benin: SMS Guidelines",
+        "body": "Benin: SMS Guidelines. MCC: 616. Dial Code: 229. Alphanumeric Sender IDs are supported. For Network MTN (61603) Alphanumeric Sender IDs are only supported with registration. Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6596235-benin-sms-guidelines"
+    },
+    {
+        "id": "6596210",
+        "title": "Barbados: SMS Guidelines",
+        "body": "Barbados: SMS Guidelines. MCC: 342. Dial Code: 1246. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6596210-barbados-sms-guidelines"
+    },
+    {
+        "id": "6596161",
+        "title": "Bangladesh: SMS Guidelines",
+        "body": "Bangladesh: SMS Guidelines. MCC: 470. Dial Code: 880. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6596161-bangladesh-sms-guidelines"
+    },
+    {
+        "id": "6596158",
+        "title": "Bahrain: SMS Guidelines",
+        "body": "Bahrain: SMS Guidelines. MCC: 426. Dial Code: 973. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. Adult, political and religious content will be blocked by local operators. . Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6596158-bahrain-sms-guidelines"
+    },
+    {
+        "id": "6596149",
+        "title": "Bahamas: SMS Guidelines",
+        "body": "Bahamas: SMS Guidelines. MCC: 364. Dial Code: 1242. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6596149-bahamas-sms-guidelines"
+    },
+    {
+        "id": "6596144",
+        "title": "Azerbaijan: SMS Guidelines",
+        "body": "Azerbaijan: SMS Guidelines. MCC: 400. Dial Code: 994. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6596144-azerbaijan-sms-guidelines"
+    },
+    {
+        "id": "6592538",
+        "title": "Aruba: SMS Guidelines",
+        "body": "Aruba: SMS Guidelines. MCC: 363. Dial Code: 297. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6592538-aruba-sms-guidelines"
+    },
+    {
+        "id": "6592510",
+        "title": "Armenia: SMS Guidelines",
+        "body": "Armenia: SMS Guidelines. MCC: 374. Dial Code: 283. Alphanumeric Sender IDs are supported with registration. Alpha numeric Sender ID registration is required. Without registration Alpha Sender IDs will be overwritten to a generic Alpha Sender ID, or rejected. Alpha Sender ID registration is advised. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6592510-armenia-sms-guidelines"
+    },
+    {
+        "id": "6592509",
+        "title": "Antigua y Barbuda: SMS Guidelines",
+        "body": "Antigua y Barbuda: SMS Guidelines. MCC: 344. Dial Code: 1268. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6592509-antigua-y-barbuda-sms-guidelines"
+    },
+    {
+        "id": "6592505",
+        "title": "Anguila: SMS Guidelines",
+        "body": "Anguila: SMS Guidelines. MCC: 365. Dial Code: 1264. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6592505-anguila-sms-guidelines"
+    },
+    {
+        "id": "6592456",
+        "title": "Angola: SMS Guidelines",
+        "body": "Angola: SMS Guidelines. MCC: 631. Dial Code: 244. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6592456-angola-sms-guidelines"
+    },
+    {
+        "id": "6592454",
+        "title": "American Samoa: SMS Guidelines",
+        "body": "American Samoa: SMS Guidelines. MCC: 311 - 544. Dial Code: 684. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6592454-american-samoa-sms-guidelines"
+    },
+    {
+        "id": "6592441",
+        "title": "Algeria: SMS Guidelines",
+        "body": "Algeria: SMS Guidelines. MCC: 603. Dial Code: 213. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6592441-algeria-sms-guidelines"
+    },
+    {
+        "id": "6592387",
+        "title": "Afghanistan: SMS Guidelines",
+        "body": "Afghanistan: SMS Guidelines. MCC: 412. Dial Code: 93. Alphanumeric Sender IDs are supported. For Network MTN (41240) Alphanumeric Sender IDs are only supported with registration.  Without registration to this network, Alpha Senders will be overwritten to Generic Alpha Sender IDs or will NOT deliver. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6592387-afghanistan-sms-guidelines"
+    },
+    {
+        "id": "6589563",
+        "title": "Suriname: SMS Guidelines",
+        "body": "Suriname: SMS Guidelines. MCC: 746. Dial Code: 597. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6589563-suriname-sms-guidelines"
+    },
+    {
+        "id": "6589557",
+        "title": "Iraq: SMS Guidelines",
+        "body": "Iraq: SMS Guidelines. MCC: 418. Dial Code: 964. Alphanumeric Sender IDs are supported. Registration is not possible. The use of generic Alpha Sender IDs is not recommended as these can be rejected or blocked by local Operators. Alphanumeric Sender IDs should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6589557-iraq-sms-guidelines"
+    },
+    {
+        "id": "6574098",
+        "title": "Nicaragua: SMS Guidelines",
+        "body": "Nicaragua: SMS Guidelines. MCC: 710. Dial Code: 505. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6574098-nicaragua-sms-guidelines"
+    },
+    {
+        "id": "6574081",
+        "title": "Honduras: SMS Guidelines",
+        "body": "Honduras: SMS Guidelines. MCC: 708. Dial Code: 504. Alphanumeric Sender IDs are partially supported. Registration is not possible. All Alphanumeric Sender IDs can be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6574081-honduras-sms-guidelines"
+    },
+    {
+        "id": "6574078",
+        "title": "El Salvador: SMS Guidelines",
+        "body": "El Salvador: SMS Guidelines. MCC: 706. Dial Code: 503. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6574078-el-salvador-sms-guidelines"
+    },
+    {
+        "id": "6574037",
+        "title": "Belize: SMS Guidelines",
+        "body": "Belize: SMS Guidelines. MCC: 702. Dial Code: 501. Alphanumeric Sender IDs are partially supported. Registration is not possible. All Alphanumeric Sender IDs can be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6574037-belize-sms-guidelines"
+    },
+    {
+        "id": "6574032",
+        "title": "Guatemala: SMS Guidelines",
+        "body": "Guatemala: SMS Guidelines. MCC: 704. Dial Code: 502. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6574032-guatemala-sms-guidelines"
+    },
+    {
+        "id": "6573677",
+        "title": "Panama: SMS Guidelines",
+        "body": "Panama: SMS Guidelines. MCC: 714. Dial Code: 507. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6573677-panama-sms-guidelines"
+    },
+    {
+        "id": "6573669",
+        "title": "Venezuela: SMS Guidelines",
+        "body": "Venezuela: SMS Guidelines. MCC: 734. Dial Code: 58. Alphanumeric Sender IDs are partially supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Except for Network Movilnet (73406), Alpha Sender IDs will be maintained and deliver dynamically to this network. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6573669-venezuela-sms-guidelines"
+    },
+    {
+        "id": "6570385",
+        "title": "Ecuador: SMS Guidelines",
+        "body": "Ecuador: SMS Guidelines. MCC: 740. Dial Code: 593. Alphanumeric Sender IDs are partially supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Except for Network CNT (74002), Alpha Sender IDs will be maintained and deliver dynamically to this network. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6570385-ecuador-sms-guidelines"
+    },
+    {
+        "id": "6570364",
+        "title": "Chile: SMS Guidelines",
+        "body": "Chile: SMS Guidelines. MCC: 730. Dial Code: 56. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6570364-chile-sms-guidelines"
+    },
+    {
+        "id": "6570320",
+        "title": "Paraguay: SMS Guidelines",
+        "body": "Paraguay: SMS Guidelines. MCC: 744. Dial Code: 595. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6570320-paraguay-sms-guidelines"
+    },
+    {
+        "id": "6570309",
+        "title": "Uruguay: SMS Guidelines",
+        "body": "Uruguay: SMS Guidelines. MCC: 748. Dial Code: 598. Alphanumeric Sender IDs are not supported. Registration is not possible. . All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6570309-uruguay-sms-guidelines"
+    },
+    {
+        "id": "6564549",
+        "title": "Peru: SMS Guidelines",
+        "body": "Peru: SMS Guidelines. MCC: 716. Dial Code: 51. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6564549-peru-sms-guidelines"
+    },
+    {
+        "id": "6564249",
+        "title": "Bolivia: SMS Guidelines",
+        "body": "Bolivia: SMS Guidelines. MCC: 736. Dial Code:  591. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6564249-bolivia-sms-guidelines"
+    },
+    {
+        "id": "6564226",
+        "title": "Costa Rica: SMS Guidelines",
+        "body": "Costa Rica: SMS Guidelines. MCC: 712. Dial Code: 506. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6564226-costa-rica-sms-guidelines"
+    },
+    {
+        "id": "6564188",
+        "title": "Argentina: SMS Guidelines",
+        "body": "Argentina: SMS Guidelines. MCC: 722. Dial Code: 53. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6564188-argentina-sms-guidelines"
+    },
+    {
+        "id": "6564056",
+        "title": "Turkey: SMS Guidelines",
+        "body": "Turkey: SMS Guidelines. MCC: 286. Dial Code: 90. Alphanumeric Sender IDs are supported with registration. Alphanumeric Sender ID registration is required. Gambling traffic is not allowed towards Turkey. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6564056-turkey-sms-guidelines"
+    },
+    {
+        "id": "6564053",
+        "title": "Moldova: SMS Guidelines",
+        "body": "Moldova: SMS Guidelines. MCC: 259. Dial Code: 373. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6564053-moldova-sms-guidelines"
+    },
+    {
+        "id": "6564006",
+        "title": "Luxembourg: SMS Guidelines",
+        "body": "Luxembourg: SMS Guidelines. MCC: 270. Dial Code: 352. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6564006-luxembourg-sms-guidelines"
+    },
+    {
+        "id": "6563904",
+        "title": "Ukraine: SMS Guidelines",
+        "body": "Ukraine: SMS Guidelines. MCC: 255. Dial Code: 380. Due to the ongoing situation, SMS delivery towards Ukraine is to be considered as best-effort. Alphanumeric Sender IDs are partially supported. Registration is not possible. Occasionally Alphanumeric Sender ID might be overwritten to Random Short Code to ensure delivery. The use of generic Alpha Sender IDs is not recommended as these can be rejected or blocked by local Operators. Alphanumeric Sender IDs should be directly related to the message content. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6563904-ukraine-sms-guidelines"
+    },
+    {
+        "id": "6563890",
+        "title": "Andorra: SMS Guidelines",
+        "body": "Andorra: SMS Guidelines. MCC: 213. Dial Code: 376. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6563890-andorra-sms-guidelines"
+    },
+    {
+        "id": "6563879",
+        "title": "Albania: SMS Guidelines",
+        "body": "Albania: SMS Guidelines. MCC: 276. Dial Code: 355. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6563879-albania-sms-guidelines"
+    },
+    {
+        "id": "6563862",
+        "title": "Bulgaria: SMS Guidelines",
+        "body": "Bulgaria: SMS Guidelines. MCC: 284. Dial Code: 359. Alphanumeric Sender IDs are partially supported. Registration is not possible. Alphanumeric Sender IDs can be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6563862-bulgaria-sms-guidelines"
+    },
+    {
+        "id": "6563843",
+        "title": "Croatia: SMS Guidelines",
+        "body": "Croatia: SMS Guidelines. MCC: 219. Dial Code: 385. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6563843-croatia-sms-guidelines"
+    },
+    {
+        "id": "6563817",
+        "title": "Greece: SMS Guidelines",
+        "body": "Greece: SMS Guidelines. MCC: 202. Dial Code: 30. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6563817-greece-sms-guidelines"
+    },
+    {
+        "id": "6561262",
+        "title": "Romania: SMS Guidelines",
+        "body": "Romania: SMS Guidelines. MCC: 226. Dial Code: 40. Alphanumeric Sender IDs are supported with registration. Without registration, Alpha Sender IDs will be overwritten to either Short Code or Generic Alpha. Alpha Senders should be registered to ensure delivery of same Alpha Sender. Messages containing URLs as part of the content can be blocked by local operators. URL whitelisting is possible. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6561262-romania-sms-guidelines"
+    },
+    {
+        "id": "6561237",
+        "title": "Czech Republic (Czechia): : SMS Guidelines",
+        "body": "Czech Republic (Czechia): : SMS Guidelines. MCC: 230. Dial Code: 420. Alpha Sender ID registration is required for Network T-Mobile (23001). Outside of this network, Alphanumeric Sender IDs might be overwritten to either Generic Alphanumeric or Numeric Sender ID. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6561237-czech-republic-czechia-sms-guidelines"
+    },
+    {
+        "id": "6561206",
+        "title": "Hungary: SMS Guidelines",
+        "body": "Hungary: SMS Guidelines. MCC: 216. Dial Code: 36. Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6561206-hungary-sms-guidelines"
+    },
+    {
+        "id": "6561195",
+        "title": "Slovenia: SMS Guidelines",
+        "body": "Slovenia: SMS Guidelines. MCC: 293. Dial Code: 386. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6561195-slovenia-sms-guidelines"
+    },
+    {
+        "id": "6561154",
+        "title": "Switzerland: SMS Guidelines",
+        "body": "Switzerland: SMS Guidelines. MCC: 228. Dial Code: 41. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6561154-switzerland-sms-guidelines"
+    },
+    {
+        "id": "6561115",
+        "title": "Latvia: SMS Guidelines",
+        "body": "Latvia: SMS Guidelines. MCC: 247. Dial Code: 371. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6561115-latvia-sms-guidelines"
+    },
+    {
+        "id": "6560973",
+        "title": "Lithuania: SMS Guidelines",
+        "body": "Lithuania: SMS Guidelines. MCC: 246. Dial Code: 370. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6560973-lithuania-sms-guidelines"
+    },
+    {
+        "id": "6560919",
+        "title": "Estonia: SMS Guidelines",
+        "body": "Estonia: SMS Guidelines. MCC: 248. Dial Code: 372. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6560919-estonia-sms-guidelines"
+    },
+    {
+        "id": "6560909",
+        "title": "Iceland: SMS Guidelines",
+        "body": "Iceland: SMS Guidelines. MCC: 274. Dial Code: 354. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. Messages containing URLs as part of their content are filtered by local operators. Valid URLs can be whitelisted to ensure delivery. Lottery and Gambling related traffic is not allowed and will be blocked by local operators. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on URL whitelisting kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6560909-iceland-sms-guidelines"
+    },
+    {
+        "id": "6560706",
+        "title": "Finland: SMS Guidelines",
+        "body": "Finland: SMS Guidelines. MCC: 244. Dial Code: 358. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. Messages containing URLs as part of their content are filtered by local operators. Valid URLs can be whitelisted to ensure delivery. Lottery and Gambling related traffic is not allowed and will be blocked by local operators. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on URL whitelisting kindly reach out to alpha_sender_id@telnyx.com. . ",
+        "url": "https://support.telnyx.com/en/articles/6560706-finland-sms-guidelines"
+    },
+    {
+        "id": "6560704",
+        "title": "Norway: SMS Guidelines",
+        "body": "Norway: SMS Guidelines. MCC: 242. Dial Code: 47. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. Messages containing URLs as part of their content are filtered by local operators. Valid URLs can be whitelisted to ensure delivery. Lottery and Gambling related traffic is not allowed and will be blocked by local operators. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on URL whitelisting kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6560704-norway-sms-guidelines"
+    },
+    {
+        "id": "6560689",
+        "title": "Sweden: SMS Guidelines",
+        "body": "Sweden: SMS Guidelines. MCC: 240. Dial Code: 46. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. Messages containing URLs as part of their content are filtered by local operators. Valid URLs can be whitelisted to ensure delivery. Lottery and Gambling related traffic is not allowed and will be blocked by local operators. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on URL whitelisting kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6560689-sweden-sms-guidelines"
+    },
+    {
+        "id": "6560665",
+        "title": "Denmark: SMS Guidelines",
+        "body": "Denmark: SMS Guidelines. MCC: 238. Dial Code: 45. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. Messages containing URLs as part of their content are filtered by local operators. Valid URLs can be whitelisted to ensure delivery. Lottery and Gambling related traffic is not allowed and will be blocked by local operators. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on URL whitelisting kindly reach out to alpha_sender_id@telnyx.com. ",
+        "url": "https://support.telnyx.com/en/articles/6560665-denmark-sms-guidelines"
+    },
+    {
+        "id": "6560660",
+        "title": "Austria: SMS Guidelines",
+        "body": "Austria: SMS Guidelines. MCC: 232. Dial Code: 43. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6560660-austria-sms-guidelines"
+    },
+    {
+        "id": "6545173",
+        "title": "South Africa: SMS Guidelines",
+        "body": "South Africa: SMS Guidelines. MCC: 655. Dial Code: 27 . Alphanumeric Sender IDs are not supported. Registration is not possible. All Alphanumeric Sender IDs will be overwritten to random Local Long Code. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6545173-south-africa-sms-guidelines"
+    },
+    {
+        "id": "6545167",
+        "title": "Poland: SMS Guidelines",
+        "body": "Poland: SMS Guidelines. MCC: 260. Dial Code: 48. Alphanumeric Sender IDs are supported and will be maintained, no registration is required.. The use of generic Alpha Sender IDs is not recommended. Alpha Senders should be directly related to the message content. . There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6545167-poland-sms-guidelines"
+    },
+    {
+        "id": "6545161",
+        "title": "Ireland: SMS Guidelines",
+        "body": "Ireland: SMS Guidelines. MCC: 272. Dial Code: 353. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6545161-ireland-sms-guidelines"
+    },
+    {
+        "id": "6545140",
+        "title": "Spain: SMS Guidelines",
+        "body": "Spain: SMS Guidelines. MCC: 214. Dial Code: 34. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6545140-spain-sms-guidelines"
+    },
+    {
+        "id": "6545130",
+        "title": "Portugal: SMS Guidelines",
+        "body": "Portugal: SMS Guidelines. MCC: 268. Dial Code: 351. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6545130-portugal-sms-guidelines"
+    },
+    {
+        "id": "6534652",
+        "title": "Colombia: SMS Guidelines",
+        "body": "Colombia: SMS Guidelines. MCC: 732. Dial Code: 57. Alphanumeric Sender IDs are not supported. Registration is not possible. Alpha Sender IDs will be overwritten to either a random Local Long Code or Short Code. Commercial or marketing content can only be sent from 8:00am to 9:00pm. To send this type of traffic outside of these hours,  explicit consent must be provided by the end-user. Opt-out options must always be included. Through the words Salir or Cancelar.. Adult content must be only sent to end-users of legal age if previously requested by them. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6534652-colombia-sms-guidelines"
+    },
+    {
+        "id": "6531722",
+        "title": "Italy: SMS Guidelines",
+        "body": "Italy: SMS Guidelines. MCC: 222. Dial Code: 39. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6531722-italy-sms-guidelines"
+    },
+    {
+        "id": "6531712",
+        "title": "Brazil: SMS Guidelines",
+        "body": "Brazil: SMS Guidelines. MCC: 724. Dial Code: 55. Alpha Sender IDs will be overwritten to either a random Local Long Code or Short Code. Registration is not possible. Brazil is a destination that supports SMSC-DLR only, as such, positive DLRs are to be expected. Handset delivery reports are not possible. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6531712-brazil-sms-guidelines"
+    },
+    {
+        "id": "6531704",
+        "title": "United Kingdom: SMS Guidelines",
+        "body": "United Kingdom: SMS Guidelines. MCC: 234 - 235. Dial Code: 44. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. MEF Registry against potential Spam and Fraud traffic. A group of Alpha Sender IDs are protected under this registry to combat fraud, as such only authorized senders are allowed to send this traffic. LOAs are required for approval. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6531704-united-kingdom-sms-guidelines"
+    },
+    {
+        "id": "6531682",
+        "title": "Philippines: SMS Guidelines",
+        "body": "Philippines: SMS Guidelines. MCC: 515. Dial Code: 63. Alphanumeric Sender IDs must be pre-registered. A Letter of Authorization (LOA) must be provided (Banking, Financial Institutions). In some instances, Alpha Sender IDs will be Overwritten by local operators to optimize delivery despite being registered. The use of Generic Alpha Sender IDs (i.e. Verify, OTP, InfoSMS, etc) for transactional traffic is not allowed. Submissions with generic alpha Sender IDs will be rejected by local operators. Due to high volumes of Spam and Phishing attempts, we highly advise for the use of Branded URLs instead of shortened URLs (i.e. bit.links). Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6531682-philippines-sms-guidelines"
+    },
+    {
+        "id": "6531675",
+        "title": "Belgium: SMS Guidelines",
+        "body": "Belgium: SMS Guidelines. MCC: 206. Dial Code: 32. Alphanumeric Sender IDs are not supported. Registration is not possible. . . All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6531675-belgium-sms-guidelines"
+    },
+    {
+        "id": "6531664",
+        "title": "Mexico: SMS Guidelines",
+        "body": "Mexico: SMS Guidelines. MCC: 334. Dial Code: 52. Submissions with an Alpha Sender ID* will be overwritten to either a local long code or short code. All promotional traffic should always include clear OPT-OUT options. *Implementation of Alpha Sender ID registration for this destination is relatively new. It is not mandatory, however for AlphaDynamic capabilities, agreements in minimum monthly volume (to be confirmed) are required for the Alpha Sender ID to be maintained. Telnyx advises on registration only if volumes can be maintained. Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6531664-mexico-sms-guidelines"
+    },
+    {
+        "id": "6531656",
+        "title": "Australia: SMS Guidelines",
+        "body": "Australia: SMS Guidelines. . MCC: 505. Dial code: 61. There are strict measures in place to help combat spam. As such all commercial traffic should be compliant according to the Australian Spam Act 2003. Mandatory registration of Alphanumeric Sender IDs has been implemented by the Australia Communications and Media Authority (ACMA), this, as part of a recent update on their SPAM Act. Effective May 8th all messages sent with non-registered Alphanumeric Sender IDs will be blocked.. Information on Alphanumeric Sender ID registration:.         - Please complete the attached form and return to alpha_sender_id@telnyx.com, along with a copy of your Business Registration.         - Companies must have a valid business case for the requested Alphanumeric Sender ID. If the relationship between your company/brand and the requested Alphanumeric Sender ID is not clear, please provide additional supporting documentation detailing your business case.        - In case that the registration is being made on behalf of a customer, a signed LOA (letter of Authorisation) needs to be provided to confirm the legitimacy of the request.. Additional recommendations:.          - Consent (Proof for Opt-in) should be obtained before sending any communications, i.e. Marketing SMS.          - Traffic should include clear Opt-Out options. Please make sure to always refer to our Acceptable Use Policy for Messaging. For more information on Alpha Sender ID registration kindly reach out to alpha_sender_id@telnyx.com.",
+        "url": "https://support.telnyx.com/en/articles/6531656-australia-sms-guidelines"
+    },
+    {
+        "id": "6531603",
+        "title": "France: SMS Guidelines",
+        "body": "France: SMS Guidelines. MCC: 208. Dial Code: 33. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. . . Telnyx advises on the use of Alphanumeric Sender IDs for all A2P traffic towards this destination. . . When sending towards MVNO NRJ (20826) and Truphone (20812) Alphanumeric Sender IDs will be replaced by either a random local number or a Short Code. Local Operators do not allow marketing/promotional traffic to be sent on Sundays and French Public Holidays, between 10 pm and 8 am. Any messages attempted during this time will be queued and delivery will be attempted afterwards. All marketing/promotional traffic should include a clear option to opt-out as part of the message content. Fragment STOP au 36179 must be added at the end of the message. If missing, this will be added automatically. . Anti-Phishing measures:. In an attempt to fight the increase in SMS Phishing and Fraud attempts, French operators have implemented an additional check (Whitelisting) on a group of Alpha Numeric Sender IDs. Traffic using the aforementioned Alphanumeric Sender IDs will only be possible through the submission of a duly signed Letter of Authorization.  . Please make sure to always refer to our Acceptable Use Policy for Messaging.",
+        "url": "https://support.telnyx.com/en/articles/6531603-france-sms-guidelines"
+    },
+    {
+        "id": "6531581",
+        "title": "The Netherlands: SMS Guidelines",
+        "body": "The Netherlands: SMS Guidelines. MCC: 204. Dial Code: 31. Alphanumeric Sender IDs are supported and will be maintained, no registration is required. . . There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging. ",
+        "url": "https://support.telnyx.com/en/articles/6531581-the-netherlands-sms-guidelines"
+    }
+]
