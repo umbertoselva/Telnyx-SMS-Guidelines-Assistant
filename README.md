@@ -2,7 +2,7 @@
 
 An AI chatbot built with LangChain, OpenAI GPT-3.5 and a Streamlit UI that can assist customers with the guidelines for sending SMS to each country with Telnyx.
 
-The Streamlit app is available at:
+The Streamlit app is available at: https://umbertoselva-telnyx-sms-guidelines-assistant-app-1av2vi.streamlit.app/
 
 #### How to run on your local machine
 
