@@ -37,7 +37,7 @@ I decided to carry out the documentation preprocessing part as well as the inges
 
 #### Challenges faced during the development
 
-I initially built the chatbot to work with the given documentation.json file as such, but soon realized that many of the performance issues could be solved by performing some data cleaning on the dataset (e.g. removing duplicates, removing HTML tags, etc. — please see the preprocessing.ipynb file). The alternative, i.e. to try and adapt the chatbot to a non-ideal dataset seemed less appealing and practical a strategy to me.
+I initially built the chatbot to work with the given documentation.json file as such, but soon realized that many of the performance issues could be solved by performing some data cleaning on the dataset (e.g. removing duplicates, removing HTML tags, etc. — please see the [preprocessing.ipynb](https://github.com/umbertoselva/Telnyx-SMS-Guidelines-Assistant/blob/main/preprocessing.ipynb) file). The alternative, i.e. to try and adapt the chatbot to a non-ideal dataset seemed less appealing and practical a strategy to me.
 
 The chatbot performs well on the given test questions (see below) and also on non-pertinent questions (it will apologise for not knowing the answer, ask the user to reformulate, etc.). However, it fails test question number 3 ("What is the MCC for Serbia?"). It appears that the retrieved contexts include various info on other Balkan countries, but not Serbia's information. I have not been able to figure out why yet, nor to find any other case in which it similarly fails. It might be useful to test different retrievers or embeddings (although this might affect the performance in other ways).
 
