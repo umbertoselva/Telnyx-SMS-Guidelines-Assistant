@@ -7,7 +7,7 @@ The Streamlit app is available at:
 #### How to run on your local machine
 
 1. Download the Github repo on your local machine
-2. Open a terminal and navigate to the Telnyx-Guidelines-Assistant folder
+2. Open a terminal and navigate to the Telnyx-SMS-Guidelines-Assistant folder
 3. Create a hidden streamlit folder with a secrets.toml file in it
     ```
     mkdir .streamlit
@@ -18,7 +18,7 @@ The Streamlit app is available at:
     ```
     OPENAI_API_KEY="paste-your-openai-api-key-here"
     ```
-5. Navigate back to the Telnyx-Guidelines-Assistant folder, create a dedicated virtual environment, activate it, and install the dependencies from the requirements.txt file
+5. Navigate back to the Telnyx-SMS-Guidelines-Assistant folder, create a dedicated virtual environment, activate it, and install the dependencies from the requirements.txt file
     ```
     python -m venv venv_telnyx_assistant
     source venv_telnyx_assistant/bin/activate
@@ -31,9 +31,9 @@ The Streamlit app is available at:
     
 #### Development and alternative ideas
 
-In order to demonstrate the chatbot functionalities, I decided to build a Streamlit app (see app.py). An alternative could have been to set up an API route to respond to the user questions via requests.
+In order to demonstrate the chatbot functionalities, I decided to build a Streamlit app (see [app.py](https://github.com/umbertoselva/Telnyx-SMS-Guidelines-Assistant/blob/main/app.py)). An alternative could have been to set up an API route to respond to the user questions via requests.
 
-I decided to carry out the documentation preprocessing part as well as the ingestion of the data into a vectorstore (see preprocessing.ipynb and ingest.ipynb — I worked on both notebooks in Google Colab) separately from the app itself. The app thus relies on the resulting vectorstore.pkl file. Alternatively it would be possible to include a pipeline that automates the preprocessing and creation of a vectorstore upon a POST request (e.g. by adding an API route that calls a function from a separate ingest.py file containing such pipeline), allowing, for instance, to quickly have the chatbot work with an updated version of the documentation.
+I decided to carry out the documentation preprocessing part as well as the ingestion of the data into a vectorstore (see [preprocessing.ipynb](https://github.com/umbertoselva/Telnyx-SMS-Guidelines-Assistant/blob/main/preprocessing.ipynb) and [ingest.ipynb](https://github.com/umbertoselva/Telnyx-SMS-Guidelines-Assistant/blob/main/ingest.ipynb) — I worked on both notebooks in Google Colab) separately from the app itself. The app thus relies on the resulting vectorstore.pkl file. Alternatively it would be possible to include a pipeline that automates the preprocessing and creation of a vectorstore upon a POST request (e.g. by adding an API route that calls a function from a separate ingest.py file containing such pipeline), allowing, for instance, to quickly have the chatbot work with an updated version of the documentation.
 
 #### Challenges faced during the development
 
@@ -66,14 +66,3 @@ Other types of questions:
     > Unfortunately, I don't know the answer to this question. Please reformulate it or ask something different. However, I am here to assist you with any questions you may have about the Telnyx SMS Guidelines.
 * What are the Telnyx SMS Guidelines?
     > The Telnyx SMS Guidelines are a set of rules and regulations that govern the use of SMS messaging in different countries. These guidelines include information on supported alphanumeric sender IDs, registration requirements, restrictions on certain types of traffic (such as gambling-related traffic), and other important details. It is important to always refer to the Acceptable Use Policy for Messaging and reach out to alpha_sender_id@telnyx.com for more information on Alpha Sender ID registration.
-
-
-
-
-
-
-
-
-
-
-
