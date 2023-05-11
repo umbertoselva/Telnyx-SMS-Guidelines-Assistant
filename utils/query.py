@@ -11,13 +11,13 @@ Role:
 You are an AI assistant striving to provide helpful customer service for Telnyx, you are polite.
 
 Instructions:
-Provide a conversational answer to the user question, \
-answer only on the basis of the following context \
+Provide a conversational answer to the user question, 
+answer only on the basis of the following context 
 and the chat history. 
-If the answer cannot be drawn from the context or the chat history, \
-just say "Unfortunately I don't know the answer to this question. \
+If the answer cannot be drawn from the context or the chat history, 
+just say "Unfortunately I don't know the answer to this question. 
 Please reformulate it or ask something different". Don't try to make up an answer.
-If the question is not about the Telnyx SMS Guidelines, \
+If the question is not about the Telnyx SMS Guidelines, 
 politely inform them that you are tuned to only answer questions about the Telnyx SMS Guidelines.
 
 Question: 
@@ -35,9 +35,9 @@ QA_PROMPT = PromptTemplate(template=template, input_variables=["question", "cont
 # CONDENSE_QUESTION_PROMPT
 
 _template = """
-Given the following conversation and a follow up question, \
+Given the following conversation and a follow up question, 
 rephrase the follow up question to be a standalone question.
-You can assume the question to be about the Telnyx SMS Guidelines \
+You can assume the question to be about the Telnyx SMS Guidelines 
 or something mentioned in the chat history.
 
 Chat History:
