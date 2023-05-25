@@ -2,7 +2,7 @@ import streamlit as st
 from streamlit_chat import message
 import pickle
 import os
-from utils.query import _template, QA_PROMPT, CONDENSE_QUESTION_PROMPT, get_chain
+from utils.query import get_chain
 
 
 # Open vectorstore with documenation data
@@ -53,10 +53,7 @@ if user_input:
     output = chain.run(
         vectorstore=vectorstore,
         chat_history=[],
-        question=user_input,
-        QA_PROMPT=QA_PROMPT,
-        CONSENSE_QUESTION_PROMPT=CONDENSE_QUESTION_PROMPT,
-        template=_template
+        question=user_input
     )
 
     st.session_state.past.append(user_input)
