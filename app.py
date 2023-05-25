@@ -16,7 +16,6 @@ chain = get_chain(vectorstore)
 
 # Streamlit App
 
-# Session states
 if "generated" not in st.session_state:
     st.session_state["generated"] = []
 if "past" not in st.session_state:
@@ -33,6 +32,7 @@ st.markdown(
         ''')
 
 # Input bar
+
 def get_text():
     input_text = st.text_input(
         "You:", 
@@ -46,6 +46,7 @@ def get_text():
 user_input = get_text()
 
 # Generate output upon user input
+
 if user_input:
 
     # generate output
@@ -63,7 +64,6 @@ if user_input:
     print(st.session_state["past"])
     st.session_state.generated.append(output)
     print(st.session_state["generated"])
-
 
     if st.session_state["generated"]:
 
