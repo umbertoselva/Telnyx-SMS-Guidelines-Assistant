@@ -51,7 +51,6 @@ if user_input:
 
     # generate output
     output = chain.run(
-        input=user_input,
         vectorstore=vectorstore,
         chat_history=[],
         question=user_input,
