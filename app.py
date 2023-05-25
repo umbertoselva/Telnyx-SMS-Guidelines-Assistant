@@ -5,6 +5,10 @@ import os
 from utils.query import _template, QA_PROMPT, CONDENSE_QUESTION_PROMPT, get_chain
 
 
+# Get OpenAI API key
+api_key = os.getenv('OPENAI_KEY')
+
+
 # Open vectorstore with documenation data
 if os.path.exists("vectorstore.pkl"):
     with open("vectorstore.pkl", "rb") as f:
