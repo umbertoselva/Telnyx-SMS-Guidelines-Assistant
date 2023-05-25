@@ -5,21 +5,19 @@ import os
 from utils.query import _template, QA_PROMPT, CONDENSE_QUESTION_PROMPT, get_chain
 
 
-# Get OpenAI API key
-api_key = os.getenv('OPENAI_KEY')
-
-
 # Open vectorstore with documenation data
 if os.path.exists("vectorstore.pkl"):
     with open("vectorstore.pkl", "rb") as f:
         vectorstore = pickle.load(f)
 
+        
 # Get the chain (see utils/query.py)
 chain = get_chain(vectorstore)
 
 
 # Streamlit App
 
+# Session states
 if "generated" not in st.session_state:
     st.session_state["generated"] = []
 if "past" not in st.session_state:
@@ -36,7 +34,6 @@ st.markdown(
         ''')
 
 # Input bar
-
 def get_text():
     input_text = st.text_input(
         "You:", 
@@ -50,26 +47,17 @@ def get_text():
 user_input = get_text()
 
 # Generate output upon user input
-
 if user_input:
-    
-    # perform similarity search over vectorstore
-    docs = vectorstore.similarity_search(user_input)
 
     # generate output
     output = chain.run(
-        input=user_input,
         vectorstore=vectorstore,
-        context=docs[:4], # top 4 docs returned by similarity search
         chat_history=[],
         question=user_input,
         QA_PROMPT=QA_PROMPT,
         CONSENSE_QUESTION_PROMPT=CONDENSE_QUESTION_PROMPT,
         template=_template
     )
-    
-    # print retrieved documentation in terminal for debugging output
-    print(docs[:4])
 
     st.session_state.past.append(user_input)
     print(st.session_state["past"])
