@@ -58,6 +58,7 @@ if user_input:
 
     # generate output
     output = chain.run(
+        input=user_input,
         vectorstore=vectorstore,
         context=docs[:4], # top 4 docs returned by similarity search
         chat_history=[],
