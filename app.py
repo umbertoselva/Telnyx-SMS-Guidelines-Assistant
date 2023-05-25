@@ -52,16 +52,23 @@ user_input = get_text()
 # Generate output upon user input
 
 if user_input:
+    
+    # perform similarity search over vectorstore
+    docs = vectorstore.similarity_search(user_input)
 
     # generate output
     output = chain.run(
         vectorstore=vectorstore,
+        context=docs[:4], # top 4 docs returned by similarity search
         chat_history=[],
         question=user_input,
         QA_PROMPT=QA_PROMPT,
         CONSENSE_QUESTION_PROMPT=CONDENSE_QUESTION_PROMPT,
         template=_template
     )
+    
+    # print retrieved documentation in terminal for debugging output
+    print(docs[:4])
 
     st.session_state.past.append(user_input)
     print(st.session_state["past"])
