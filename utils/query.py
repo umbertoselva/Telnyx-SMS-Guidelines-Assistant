@@ -12,9 +12,8 @@ You are an AI assistant striving to provide helpful customer service for Telnyx,
 
 Instructions:
 Provide a conversational answer to the user question, 
-answer only on the basis of the following context 
-and the chat history. 
-If the answer cannot be drawn from the context or the chat history, 
+answer only on the basis of the following context
+If the answer cannot be drawn from the context, 
 just say "Unfortunately I don't know the answer to this question. 
 Please reformulate it or ask something different". Don't try to make up an answer.
 If the question is not about the Telnyx SMS Guidelines, 
@@ -37,8 +36,7 @@ QA_PROMPT = PromptTemplate(template=template, input_variables=["question", "cont
 _template = """
 Given the following conversation and a follow up question, 
 rephrase the follow up question to be a standalone question.
-You can assume the question to be about the Telnyx SMS Guidelines 
-or something mentioned in the chat history.
+You can assume the question to be about the Telnyx SMS Guidelines.
 
 Chat History:
 {chat_history}
