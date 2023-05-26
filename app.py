@@ -56,12 +56,6 @@ if user_input:
         chat_history=st.session_state["history"],
         question=user_input
     )
-
-    # Update session states
-    st.session_state.past.append(user_input)
-    print(st.session_state["past"])
-    st.session_state.generated.append(output)
-    print(st.session_state["generated"])
     
     # Debug
     print("Output:", output)
