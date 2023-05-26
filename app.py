@@ -57,16 +57,18 @@ if user_input:
         question=user_input
     )
     
+    # Update session states
+    st.session_state.past.append(user_input)
+    st.session_state.generated.append(output)
+    st.session_state.history.append((user_input, output))
+
     # Debug
     print("Output:", output)
     print()
-    st.session_state.past.append(user_input)
     print("Session State Past:", st.session_state["past"])
     print()
-    st.session_state.generated.append(output)
     print("Session State Generated:", st.session_state["generated"])
     print()
-    st.session_state.history.append((user_input, output))
     print("Session State History:", st.session_state["history"])
     print()
     print()
