@@ -36,7 +36,6 @@ QA_PROMPT = PromptTemplate(template=template, input_variables=["question", "cont
 _template = """
 Given the following conversation and a follow up question, 
 rephrase the follow up question to be a standalone question.
-You can assume the question to be about the Telnyx SMS Guidelines.
 
 Chat History:
 {chat_history}
