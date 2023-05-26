@@ -62,17 +62,6 @@ if user_input:
     st.session_state.generated.append(output)
     st.session_state.history.append((user_input, output))
 
-    # Debug
-    print("Output:", output)
-    print()
-    print("Session State Past:", st.session_state["past"])
-    print()
-    print("Session State Generated:", st.session_state["generated"])
-    print()
-    print("Session State History:", st.session_state["history"])
-    print()
-    print()
-
     # Display output in chatbot
     if st.session_state["generated"]:
 
