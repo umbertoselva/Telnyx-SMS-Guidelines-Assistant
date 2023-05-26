@@ -52,11 +52,11 @@ Of the given test questions, the chatbot only fails to answer question n.3.
 3. What is the MCC for Serbia?
     > Unfortunately, I don't know the answer to this question. Please reformulate it or ask something different.
 4. Is alphanumeric SMS supported in China?
-    > No, alphanumeric Sender IDs are not supported in China. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. Please make sure to always refer to our Acceptable Use Policy for Messaging.
+    > No, Alphanumeric Sender IDs are not supported for SMS in China. All Alphanumeric Sender IDs will be overwritten to either a random Local Long Code or Short Code to ensure delivery. All message content has to be whitelisted by local operators. It is highly advise to pre-register message content templates. Please make sure to always refer to our Acceptable Use Policy for Messaging.
 5. Are there any SMS restrictions in Cambodia?
     > Based on the information provided, there are no SMS restrictions in Cambodia. Alphanumeric Sender IDs are supported and there are no restrictions with regards to content towards this destination. However, please make sure to always refer to Telnyx's Acceptable Use Policy for Messaging.
 6. Is alphanumeric registration required in Poland?
-    > No, alphanumeric registration is not required in Poland. Alphanumeric Sender IDs are supported and will be maintained without registration. However, it is recommended that Alpha Senders should be directly related to the message content. Please refer to our Acceptable Use Policy for Messaging for more information.
+    > In Poland, alphanumeric Sender IDs are supported and will be maintained, and no registration is required. However, it is recommended that Alpha Senders should be directly related to the message content. There are no restrictions with regards to content towards this destination. Please make sure to always refer to our Acceptable Use Policy for Messaging.
 
 Other types of questions:
 
@@ -66,3 +66,14 @@ Other types of questions:
     > I'm sorry, but I am an AI assistant tuned to answer questions about the Telnyx SMS Guidelines. Unfortunately, I don't know the answer to your question. Please reformulate it or ask something different related to the Telnyx SMS Guidelines.
 * What are the Telnyx SMS Guidelines?
     > The Telnyx SMS Guidelines are a set of rules and regulations that govern the use of SMS messaging services provided by Telnyx in different countries. These guidelines include information on supported alphanumeric sender IDs, registration requirements, restrictions on certain types of traffic such as gambling, and acceptable use policies. For more information on Alpha Sender ID registration, you can reach out to alpha_sender_id@telnyx.com.
+
+Conversational memory:
+
+* What is the country code for Italy?
+    > The dial code for Italy is 39.
+* And the MCC?
+    > The MCC for Italy is 222.
+* Is registration required?
+    > Registration for what specifically? Please provide more context or specify which country or service you are referring to.
+* Is registration in the same country required?
+    > For Italy, no registration is required for Alphanumeric Sender IDs.
